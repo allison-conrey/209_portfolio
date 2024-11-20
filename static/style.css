@@ -1,0 +1,104 @@
+/* General body styling */
+body {
+  font: 100%/1.5 system-ui;
+  max-width: 100ch;
+  margin-inline: max(1em, (100% - 100ch)/2);
+}
+
+/* Define an accent color and support for dark mode */
+:root {
+  --color-accent: oklch(65% 50% 0);
+  --border-color: oklch(50% 10% 200 / 40%);
+  color-scheme: light dark;
+}
+
+html, body {
+  accent-color: var(--color-accent);
+  background-color: Canvas;
+  color: CanvasText;
+}
+
+/* Step 2: Styling the navigation bar */
+/* nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 1em;
+  border-bottom: 1px solid var(--border-color);
+} */
+
+/* nav a {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  padding: 0.5em;
+}
+
+nav a.current {
+  border-bottom: 0.4em solid var(--color-accent);
+  padding-bottom: 0.1em;
+}
+
+nav a:hover {
+  border-bottom: 0.4em solid var(--color-accent);
+  background-color: color-mix(in oklch, var(--color-accent), Canvas 85%);
+} */
+
+/* Form styling */
+form input, form textarea, form button {
+  font: inherit;
+}
+
+form label, form input, form textarea, form button {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin-block: 0.1em;
+}
+
+form {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1em;
+}
+
+form label {
+  grid-column: 1;
+}
+
+form input, form textarea {
+  grid-column: 2;
+}
+
+/* Step 4: Dark mode switcher */
+/* .color-scheme {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 0.8rem;
+  font-family: inherit;
+}
+
+.color-scheme select {
+  padding: 0.3em;
+  font: inherit;
+} */
+
+/* Responsive grid layout for projects */
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+  gap: 1em;
+}
+
+nav, form, .projects {
+  padding: 1em;
+}
+
+.profile-photo {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

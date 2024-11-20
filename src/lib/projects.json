@@ -1,0 +1,74 @@
+[
+    {
+        "title": "RET Midi Mini Project",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Implementation of a music generating model trained by a Long Short-Term Memory artificial neural network",
+        "year": "2024"
+    },
+    {
+        "title": "Repo Gallery",
+        "image": "https://allison-conrey.github.io/AC-Portfolio/img//github-repo.png",
+        "description": "Uses GitHub's API to pull data from my GitHub portfolio to create a gallery of repos. Visitors to the site can click on the repos to see more details and a link to the repo.",
+        "year": "2023"
+    },
+    {
+        "title": "Super Sticky Notes",
+        "image": "https://allison-conrey.github.io/AC-Portfolio/img//super-sticky-note.png",
+        "description": "A greenfield project that allows the user to create “sticky notes” on their computer to keep track of to-do items. Uses multiple components to build the classic sticky note UI with the ability to add, edit, delete and search for notes.",
+        "year": "2022"
+    },
+    {
+        "title": "Name Tag Generator",
+        "image": "https://allison-conrey.github.io/AC-Portfolio/img//name-tag.png",
+        "description": "Name tag generator that allows the user to create bulk name tags using functional components and ES6 modules.",
+        "year": "2022"
+    },
+    {
+        "title": "Unplugged Retreat",
+        "image": "https://allison-conrey.github.io/AC-Portfolio/img//unplugged.png",
+        "description": "A multi-page responsive website coded with Flexbox. The design allows users to view content effectively based on their device.",
+        "year": "2022"
+    },
+    {
+        "title": "Guess the Word Game",
+        "image": "https://allison-conrey.github.io/AC-Portfolio/img//guess-the-word-game.png",
+        "description": "Players guess the word by entering one letter at a time. If the player guesses all the letters correctly before they use up their allotted guesses, they win!",
+        "year": "2022"
+    },
+    {
+        "title": "Bikewatching",
+        "image": "/static/images/bostonmap.png",
+        "description": "A visualization of Boston and Cambridge bike paths and bike stations. Stations are represented by circles, where location data is dynamically updated as the map is panned or zoomed.",
+        "year": "2024"
+    },
+    {
+        "title": "Ab incidunt molestias reiciendis?",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Doloremque consequatur modi iste dolor quae nisi voluptatum repudiandae porro similique velit quas perspiciatis eum dolore veniam dicta non nulla saepe cumque, dignissimos nobis sit impedit voluptates illo vel. Dolorem.",
+        "year": "2021"
+    },
+    {
+        "title": "Quisquam, veniam reiciendis! Quae.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Quod incidunt officia, quaerat quos cumque, minima quam voluptas nulla rem aliquid delectus non expedita sed soluta natus iusto. Incidunt numquam consectetur eum reiciendis laudantium similique quae nisi! Quaerat, totam?",
+        "year": "2020"
+    },
+    {
+        "title": "Perferendis odio quas architecto!",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Perferendis magni cumque non illum sed qui facilis cum debitis, ab nulla sequi possimus accusamus at, voluptas beatae voluptate ipsa voluptatem deserunt distinctio doloribus provident itaque eveniet numquam facere? Ullam!",
+        "year": "2020"
+    },
+    {
+        "title": "Quis adipisci inventore autem.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Officiis quos perspiciatis facilis rerum enim consectetur tempore commodi, voluptas quod perferendis quaerat facere laborum voluptatem fuga odit necessitatibus? Dolor libero, amet eaque quidem nesciunt mollitia iure ad vero officiis.",
+        "year": "2020"
+    },
+    {
+        "title": "Test Example.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Mollitia temporibus totam, illo cupiditate quisquam neque eaque reprehenderit a numquam hic est quaerat atque assumenda error labore voluptas. Excepturi commodi tempora dolores aliquam voluptatem quo. Assumenda deserunt corrupti consequatur!",
+        "year": "2020"
+    }
+]
